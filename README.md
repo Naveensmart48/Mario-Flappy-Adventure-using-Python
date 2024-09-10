@@ -1,19 +1,21 @@
-🚀 Mario Flappy Adventure 🎮
+**🚀 Mario Flappy Adventure 🎮**
+Repository by **Naveenkumar48**
+
 📝 Title:
-Mario Flappy Adventure
+**Mario Flappy Adventure**
 
 🗣️ Language:
 Python 🐍
 
 📦 Packages:
-pygame (for rendering our heroic Mario and game logic)
-neat-python (for some AI magic 🧠✨)
+pygame: Handles rendering and game logic.
+neat-python: Powers the AI (Mario's brain!) using the NEAT algorithm.
 🧠 Logics:
-Mario avoids pipes like a pro! 🏃‍♂️💨
-Using Neural Networks (NEAT algorithm) to evolve the AI to play like a champ over multiple generations.
-Birds? Nah, we got Mario! Jump, dodge, and win with style! 🎮
+Mario (our hero) dodges pipes just like in the classic Flappy Bird! 🏃‍♂️💨
+Uses the NEAT algorithm to evolve AI that gets better at playing the game over time.
+Replace birds with Mario for a new, exciting twist. 🎮
 💡 Concept:
-The classic Flappy Bird game with a fun twist: Instead of birds, you play as Mario hopping through pipes, powered by some neat AI logic. (Well, no plumber likes to hit their own pipes, right? 😅)
+Take the well-known Flappy Bird formula and swap out the birds for everyone's favorite plumber, Mario! We use a neural network (NEAT) to help Mario get better at avoiding pipes each time you play! 🧠✨
 
 🔧 Tools Supported:
 Python 🐍
@@ -21,15 +23,5 @@ Pygame 🎮
 NEAT-Python AI 🔥
 💻 Run Environment:
 Python 3.8+
-Works best on Windows, Mac, or Linux – wherever Python loves to run! 🖥️
-🚀 How to Run:
-Clone the repository 🖥️
-Install dependencies via pip:
-bash
-Copy code
-pip install pygame neat-python
-Run the game:
-bash
-Copy code
-python flappy_bird.py
-Enjoy watching Mario dodge pipes like a pro! 🎉
+Compatible with Windows, Mac, and Linux. Anywhere Python runs, Mario can jump! 🖥️
+
