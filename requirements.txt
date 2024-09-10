@@ -1,5 +1,26 @@
-numpy
-pygame
-neat-python
-graphviz
-matplotlib
+⚙️ Requirements:
+Python Version:
+
+Python 3.8 or higher is recommended. Make sure Python is installed on your system. You can download it here.
+Python Packages:
+
+pygame: The main package for rendering and game logic.
+Install it using:
+bash
+Copy code
+pip install pygame
+neat-python: For implementing the AI logic (NEAT algorithm).
+
+Install it using:
+    [ pip install neat-python ]
+
+Operating System:
+
+Works on Windows, Mac, or Linux. Any system that can run Python will do!
+IDE (Optional but recommended):
+
+Use VS Code (Visual Studio Code) or PyCharm for a great coding experience. Make sure to install a Python extension in your IDE for smoother development.
+Optional Tools:
+Git: To easily clone the repository using:
+    [ git clone https://github.com/your-repo-link ]
+That’s all you need to run the game smoothly! 🎮
